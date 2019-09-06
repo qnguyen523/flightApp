@@ -1,0 +1,55 @@
+@page
+@model flightApp.Pages.Flights.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Flight</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight.departure)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Flight.departure)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight.destination)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Flight.destination)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight.departureTime)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Flight.departureTime)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight.arrivalTime)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Flight.arrivalTime)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight.Class)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Flight.Class)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Flight.Price)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Flight.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
