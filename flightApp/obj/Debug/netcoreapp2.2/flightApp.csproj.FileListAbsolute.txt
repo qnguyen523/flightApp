@@ -14,6 +14,11 @@
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/flightApp.TagHelpers.output.cache
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/flightApp.RazorCoreGenerate.cache
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Create.g.cshtml.cs
+/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Delete.g.cshtml.cs
+/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Details.g.cshtml.cs
+/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Edit.g.cshtml.cs
+/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Index.g.cshtml.cs
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
@@ -27,9 +32,3 @@
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/flightApp.dll
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/flightApp.pdb
 /Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/flightApp.csproj.CopyComplete
-/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/flightApp.csprojAssemblyReference.cache
-/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Create.g.cshtml.cs
-/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Delete.g.cshtml.cs
-/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Details.g.cshtml.cs
-/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Edit.g.cshtml.cs
-/Users/Peter/Projects/flightApp/flightApp/obj/Debug/netcoreapp2.2/Razor/Pages/Flights/Index.g.cshtml.cs
